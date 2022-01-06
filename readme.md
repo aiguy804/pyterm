@@ -1,7 +1,7 @@
 # project version 1.0.0
 
 this project is a simulation([not emulation](#SimulationVsEmulation)) of a linux terminal.
-the terminal curently has over 12 commands some usefull others just for show (whoami,and sleep:[this will be useful when shell scripts are added](#todo.md))
+the terminal curently has over 12 commands some usefull others just for show (whoami,and sleep:[this will be useful when shell scripts are added](todo.md))
 
 ---
 
