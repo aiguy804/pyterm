@@ -5,7 +5,7 @@ the terminal curently has over 12 commands some usefull others just for show (wh
 
 ---
 
-curently I am working on nano.py a text edditor based on the [gnu nano project](https://www.nano-editor.org) which is a preinstalled text editor in some linux distros
+curently I am working on nano.py a text edditor based loosly on the [gnu nano project](https://www.nano-editor.org) which is a preinstalled text editor in some linux distros
 
 ---
 
